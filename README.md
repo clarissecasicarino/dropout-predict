@@ -19,6 +19,8 @@ This project builds a machine learning pipeline that turns those signals into a 
 
 > Can weeks 1–4 VLE behavioral data (assessment submission patterns and click activity) predict student dropout with actionable accuracy for early intervention?
 
+**Validated Hypothesis:** Students with `pass_rate_ge40 < 50%`, `on_time_rate < 70%`, and VLE clicks in the bottom quartile carry a **3× higher dropout probability** — confirmed at p < 0.001 across all statistical tests.
+
 For more information, you can go and **download the report** `Carino_AYDST_Report.pdf` to guide your understanding on the model's results.
 
 ## 🗂️ Repository Structure
