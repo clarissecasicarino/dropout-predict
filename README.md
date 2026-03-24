@@ -15,15 +15,11 @@ This project builds a machine learning pipeline that turns those signals into a 
 | 👥 Students Analyzed          | **25,774**   |
 | 💶 Estimated Savings / Cohort | **€375,000** |
 
----
-
 ## 🔍 Research Question
 
 > Can weeks 1–4 VLE behavioral data (assessment submission patterns and click activity) predict student dropout with actionable accuracy for early intervention?
 
 For more information, you can go and **download the report** `Carino_AYDST_Report.pdf` to guide your understanding on the model's results.
-
----
 
 ## 🗂️ Repository Structure
 
@@ -40,8 +36,6 @@ dropout-predict/
 ├── Carino_Applying_DS_Toolkit_Capstone.ipynb
 └── README.md
 ```
-
----
 
 ## 🚀 Getting Started
 
@@ -90,8 +84,6 @@ My Drive/
 3. Run all cells in order: **`Runtime > Run all`**
 
 > 💡 **Tip:** The notebook is fully self-contained. Each section includes markdown explanations alongside the code so you can follow the analysis end-to-end.
-
----
 
 ## 📦 Dataset
 
