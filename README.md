@@ -94,3 +94,8 @@ My Drive/
 ## 📦 Dataset
 
 This project uses the **[Open University Learning Analytics Dataset (OULAD)](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad/)**, covering 22 courses at the Open University UK (2013–2014).
+
+## 👩‍💻 Author
+
+**Clarisse Casi Cariño**
+casi.carino.business@gmail.com
