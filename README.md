@@ -98,4 +98,4 @@ This project uses the **[Open University Learning Analytics Dataset (OULAD)](htt
 ## 👩‍💻 Author
 
 **Clarisse Casi Cariño**
-casi.carino.business@gmail.com
+(casi.carino.business@gmail.com)
