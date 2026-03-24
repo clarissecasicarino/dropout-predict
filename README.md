@@ -2,8 +2,6 @@
 
 > An XGBoost early-warning system that identifies at-risk students by Week 4 using Open University Learning Analytics Dataset (OULAD) behavioral data.
 
----
-
 ## 📌 Overview
 
 Distance universities lose **40–90% of students to dropout**, costing U.S. institutions an estimated **$10.7 billion annually**. Yet the signals that precede withdrawal — missed assessments, declining engagement, low Virtual Learning Environment (VLE) activity — are already captured in every learning management system.
