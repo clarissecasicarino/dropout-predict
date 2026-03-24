@@ -33,8 +33,11 @@ dropout-predict/
 │   ├── courses.csv
 │   ├── studentRegistration.csv
 │   └── vle.csv
+├── .gitattributes
+├── .gitignore
 ├── Carino_AYDST_Capstone_v1.ipynb
 ├── Carino_AYDST_Report.pdf
+├── index.html
 └── README.md
 ```
 
